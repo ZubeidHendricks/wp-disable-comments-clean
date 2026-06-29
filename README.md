@@ -1,5 +1,7 @@
 # Disable Comments Clean
 
+🌐 **[Browse all plugins](https://zubeidhendricks.github.io/wp-plugins-site/)** · ⬇️ **[Download .zip](https://github.com/ZubeidHendricks/wp-disable-comments-clean/releases/latest/download/disable-comments-clean.zip)**
+
 Completely disable comments and pingbacks site-wide and scrub them from the
 admin — in one click. Part of the
 [Zub Plugin Factory](https://github.com/ZubeidHendricks/wp-plugin-factory).
